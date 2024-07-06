@@ -1,0 +1,31 @@
+product{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* width: 100%; */
+    padding: 20px 120px;
+}
+.vid video{
+    height: 90vh;
+    width: 90vh;
+    padding-top: 100px;
+}
+product h1{
+    font-size: 50px;
+}
+product .lisst{
+    padding: 0px 20px;
+
+}
+product a{
+    text-decoration: none;
+    line-height: 0%;
+}
+product a h6{
+    font-size: 25px;
+    color: #353434;
+}
+product a p{
+    font-size: 20px;
+    color: #989292;
+}

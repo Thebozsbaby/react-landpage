@@ -1,0 +1,45 @@
+.more{
+    padding: 30px 100px;
+    background-color: #f5f5f5;
+    /* width: 100%; */
+}
+.moore{
+    text-align: center;
+}
+.moore h1{
+    font-size: 60px;
+    font-weight: 300px;
+    padding:0px 200px;
+}
+.moore p{
+    font-size: 20px;
+    padding: 0 160px;
+    font-weight: 200px;
+    color: #000;
+}
+.second{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+.second a{
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 350px;
+}
+.second a img{
+    height: 250px;
+    width: 350px;
+    overflow: hidden;
+}
+.sen h1{
+    font-size: 25px;
+    color: #000;
+}
+.sen p{
+    font-size: 18px;
+    color: #000;
+}
+

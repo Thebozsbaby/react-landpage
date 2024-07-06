@@ -1,0 +1,56 @@
+.footer{
+    padding: 20px 120px;
+    display: flex;
+    justify-content: space-between;
+}
+/* .footer{
+    display: flex; */
+
+.footer-container{
+    padding-bottom: 10px;
+    width: 300px;
+}
+.footer-container h1{
+    font-weight: bold;
+    font-size: 35px;
+}
+.footer-container p{
+    color: #827f7f;
+}
+.links a{
+    padding: 10px;
+    font-size: 30px;
+}
+.links .ig{
+    color: #b21e1e;
+}
+.links .whats{
+    color: #14ed1b;
+}
+.links .face{
+    color: #3b5998;
+}
+.links .x{
+    color: #4060cb;
+}
+table th{
+    padding: 20px;
+}
+th td{
+    padding-left: 80px;
+    color: #827f7f;
+}
+tr td{
+    color: #201e1e;
+    font-weight: bold;
+    font-size-adjust: none;
+}
+footer{
+    height: 60vh;
+    background-color: whitesmoke;
+}
+h5{
+    padding-left: 400px;
+    font-size: 20px;
+    padding-top: 20px;
+}
